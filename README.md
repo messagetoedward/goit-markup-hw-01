@@ -1,2 +1,1 @@
-# goit-homework1-eduardzaplotinskiy
- 
+# goit-markup-hw-01
